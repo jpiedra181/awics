@@ -513,9 +513,9 @@ input {
 }
 
 .btn-theme {
-    background-color: #006cff;
+    background-color: #c79a34;
     color: #ffffff !important;
-    border: 2px solid #006cff;
+    border: 2px solid #c79a34;
 }
 
 .color-crimson .btn-theme {
@@ -532,8 +532,8 @@ input {
 
 .btn-theme.border {
     background-color: transparent;
-    color: #006cff !important;
-    border: 2px solid #006cff;
+    color: #c79a34 !important;
+    border: 2px solid #c79a34;
 }
 
 .color-crimson .btn-theme.border {
@@ -1027,7 +1027,7 @@ body,
 }
 
 .banner-area .item h1 span {
-    color: #006cff;
+    color: #c79a34;
 }
 
 .banner-area.color-crimson .item h1 span {
@@ -3023,7 +3023,7 @@ body,
 }
 
 .signup-area form .input-group button {
-    background: #006cff none repeat scroll 0 0;
+    background: #c79a34 none repeat scroll 0 0;
     border: medium none;
     -webkit-border-radius: 0 3px 3px 0;
     -moz-border-radius: 0 3px 3px 0;
@@ -3199,9 +3199,9 @@ body,
 .contact-form input,
 .contact-form textarea {
     border: 1px solid #e7e7e7;
-    border-radius: inherit;
+    border-radius: 12px;
     box-shadow: inherit;
-    padding: 0;
+    padding: 0 12px;
 }
 
 .faq-area .contact-form input,
@@ -3211,12 +3211,13 @@ body,
 
 .contact-form textarea {
     min-height: 150px;
-    padding: 10px 0;
+    padding: 10px 12px;
 }
 
 .contact-form button {
-    background: #006cff none repeat scroll 0 0;
+    background: #c79a34 none repeat scroll 0 0;
     border: medium none;
+    border-radius: 12px;
     color: #ffffff;
     display: inline-block;
     font-family: "Montserrat", sans-serif;
@@ -3241,7 +3242,7 @@ body,
 }
 
 .contact-form button:hover {
-    background: #0a2134 none repeat scroll 0 0;
+    background: #80611b none repeat scroll 0 0;
 }
 
 .contact-form button i {
