@@ -516,6 +516,7 @@ input {
     background-color: #c79a34;
     color: #ffffff !important;
     border: 2px solid #c79a34;
+    border-radius: 12px;
 }
 
 .color-crimson .btn-theme {
@@ -6451,11 +6452,11 @@ footer.centered {
 }
 
 .color-crimson .footer-social li a:hover {
-    background-color: #e22a31;
+    background: #c79a34;
 }
 
 .color-yellow .footer-social li a:hover {
-    background-color: #fbba42;
+    background-color: #c79a34;
 }
 
 footer .col-md-6 {
