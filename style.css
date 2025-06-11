@@ -6776,6 +6776,10 @@ h5 {
 /* ------------------- */
 
 @media (max-width: 480px) {
+    .about-area .business .default-padding {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
     .products-container {
         width: 100%;
         padding: 16px 16px;
